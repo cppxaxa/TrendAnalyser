@@ -1,0 +1,77 @@
+python Trend_Analyser_Module_3_Analyser_Line.py "D:\Libraries\Documents\Visual Studio 2013\Projects\Trend Analyser\Storage" SBIN_2017_8_24_2014_12_1
+
+python test.py "D:\Libraries\Documents\Visual Studio 2013\Projects\Trend Analyser\Storage" SBIN_2017_8_24_2014_12_1
+
+
+python test2.py "D:\Libraries\Documents\Visual Studio 2013\Projects\Trend Analyser\Storage" SBIN_2017_8_24_2014_12_1
+
+python support_resistance_predictor_1.py "D:\Libraries\Documents\Visual Studio 2013\Projects\Trend Analyser\Storage" SBIN_2017_8_24_2014_12_1 y
+
+
+#Test
+python support_resistance_predictor_1.py "D:\Libraries\Documents\Visual Studio 2013\Projects\Trend Analyser\Storage" 4 n n
+
+
+dec 2016, mar 25 2017, aug 2017
+
+Target User
+Feature
+What is available and what is not
+Libraries Used
+What I programmed
+
+
+Refresh
+	594, 164		465
+Delete
+	594, 192		493
+
+
+
+
+Adding a new module
+
+Add new path to Path.cs
+Changes to Path.cs check path function
+Add new Trend_Analyser_Connector.cs
+
+
+
+
+
+
+
+
+
+Try to completely understand the problem or else your time will be wasted
+
+Try to gather whatever information is available or related from trusted/untrusted legal/illegal sources
+
+Try to gather related topics/concepts/softwares/packages that may help to solve the pr
+oblem
+
+Now we have incomprehensible data
+	Analyse the data
+	try to get all information in variables or macros
+	Write a program to analyse and parse data
+	We found given information is wrong...Max value 255
+	Data visualizer may help for large data - OpenCV
+
+Now we have rough idea how the data is
+
+Apply your first solution
+	In less time, prefer trusted snippets/libraries
+
+Make a output format, it was specified
+
+
+Our solution can work on worst data, but the given data was fabricated so we can have optimized solutions too but we were not bothered
+
+e.g. our program can work on rotated shapes also but there were no rotated shapes
+
+e.g. fabricated data may be again generated ... reverse engineering
+
+
+
+
+eGovernnce

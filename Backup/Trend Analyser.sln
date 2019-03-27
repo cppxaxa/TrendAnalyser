@@ -1,0 +1,72 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Trend Analyser", "Trend Analyser\Trend Analyser.csproj", "{14B1297C-2F5E-4876-A440-378BD51499BA}"
+	ProjectSection(ProjectDependencies) = postProject
+		{FD539F90-8A82-45B6-852F-AEFE536C88FE} = {FD539F90-8A82-45B6-852F-AEFE536C88FE}
+	EndProjectSection
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Trend Analyser DLL", "Trend Analyser DLL\Trend Analyser DLL.vcxproj", "{FD539F90-8A82-45B6-852F-AEFE536C88FE}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Trend Analyser Module 1", "Trend Analyser Module 1\Trend Analyser Module 1.pyproj", "{75B8AF0F-4FCD-4FB3-BA2C-07338D0145BC}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Trend Analyser Module 2 Download Data", "Trend Analyser Module 2 Download Data\Trend Analyser Module 2 Download Data.pyproj", "{5BC5D83D-C711-498D-BDF0-E3BFD425BCDA}"
+EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Trend Analyser Module 3 Analyser", "Trend Analyser Module 3 Analyser\Trend Analyser Module 3 Analyser.pyproj", "{3BBDC513-E431-4492-8CFE-37B56652C125}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|Mixed Platforms = Debug|Mixed Platforms
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|Mixed Platforms = Release|Mixed Platforms
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{14B1297C-2F5E-4876-A440-378BD51499BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{14B1297C-2F5E-4876-A440-378BD51499BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{14B1297C-2F5E-4876-A440-378BD51499BA}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{14B1297C-2F5E-4876-A440-378BD51499BA}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{14B1297C-2F5E-4876-A440-378BD51499BA}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{14B1297C-2F5E-4876-A440-378BD51499BA}.Debug|x64.Build.0 = Debug|Any CPU
+		{14B1297C-2F5E-4876-A440-378BD51499BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{14B1297C-2F5E-4876-A440-378BD51499BA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{14B1297C-2F5E-4876-A440-378BD51499BA}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{14B1297C-2F5E-4876-A440-378BD51499BA}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{14B1297C-2F5E-4876-A440-378BD51499BA}.Release|x64.ActiveCfg = Release|Any CPU
+		{FD539F90-8A82-45B6-852F-AEFE536C88FE}.Debug|Any CPU.ActiveCfg = Debug|x64
+		{FD539F90-8A82-45B6-852F-AEFE536C88FE}.Debug|Mixed Platforms.ActiveCfg = Debug|x64
+		{FD539F90-8A82-45B6-852F-AEFE536C88FE}.Debug|Mixed Platforms.Build.0 = Debug|x64
+		{FD539F90-8A82-45B6-852F-AEFE536C88FE}.Debug|x64.ActiveCfg = Debug|x64
+		{FD539F90-8A82-45B6-852F-AEFE536C88FE}.Debug|x64.Build.0 = Debug|x64
+		{FD539F90-8A82-45B6-852F-AEFE536C88FE}.Release|Any CPU.ActiveCfg = Release|x64
+		{FD539F90-8A82-45B6-852F-AEFE536C88FE}.Release|Mixed Platforms.ActiveCfg = Release|x64
+		{FD539F90-8A82-45B6-852F-AEFE536C88FE}.Release|Mixed Platforms.Build.0 = Release|x64
+		{FD539F90-8A82-45B6-852F-AEFE536C88FE}.Release|x64.ActiveCfg = Release|x64
+		{FD539F90-8A82-45B6-852F-AEFE536C88FE}.Release|x64.Build.0 = Release|x64
+		{75B8AF0F-4FCD-4FB3-BA2C-07338D0145BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{75B8AF0F-4FCD-4FB3-BA2C-07338D0145BC}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{75B8AF0F-4FCD-4FB3-BA2C-07338D0145BC}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{75B8AF0F-4FCD-4FB3-BA2C-07338D0145BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{75B8AF0F-4FCD-4FB3-BA2C-07338D0145BC}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{75B8AF0F-4FCD-4FB3-BA2C-07338D0145BC}.Release|x64.ActiveCfg = Release|Any CPU
+		{5BC5D83D-C711-498D-BDF0-E3BFD425BCDA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5BC5D83D-C711-498D-BDF0-E3BFD425BCDA}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{5BC5D83D-C711-498D-BDF0-E3BFD425BCDA}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{5BC5D83D-C711-498D-BDF0-E3BFD425BCDA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5BC5D83D-C711-498D-BDF0-E3BFD425BCDA}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{5BC5D83D-C711-498D-BDF0-E3BFD425BCDA}.Release|x64.ActiveCfg = Release|Any CPU
+		{3BBDC513-E431-4492-8CFE-37B56652C125}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3BBDC513-E431-4492-8CFE-37B56652C125}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{3BBDC513-E431-4492-8CFE-37B56652C125}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{3BBDC513-E431-4492-8CFE-37B56652C125}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3BBDC513-E431-4492-8CFE-37B56652C125}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{3BBDC513-E431-4492-8CFE-37B56652C125}.Release|x64.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

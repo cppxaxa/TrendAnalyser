@@ -1,0 +1,37 @@
+D:\Libraries\Documents\visual studio 2013\Projects\Trend Analyser\Trend Analyser\bin\Debug\Trend Analyser.exe.config
+D:\Libraries\Documents\visual studio 2013\Projects\Trend Analyser\Trend Analyser\bin\Debug\Trend Analyser.exe
+D:\Libraries\Documents\visual studio 2013\Projects\Trend Analyser\Trend Analyser\bin\Debug\Trend Analyser.pdb
+D:\Libraries\Documents\visual studio 2013\Projects\Trend Analyser\Trend Analyser\obj\Debug\Trend_Analyser.Form1.resources
+D:\Libraries\Documents\visual studio 2013\Projects\Trend Analyser\Trend Analyser\obj\Debug\Trend_Analyser.Properties.Resources.resources
+D:\Libraries\Documents\visual studio 2013\Projects\Trend Analyser\Trend Analyser\obj\Debug\Trend Analyser.csproj.GenerateResource.Cache
+D:\Libraries\Documents\visual studio 2013\Projects\Trend Analyser\Trend Analyser\obj\Debug\Trend Analyser.exe
+D:\Libraries\Documents\visual studio 2013\Projects\Trend Analyser\Trend Analyser\obj\Debug\Trend Analyser.pdb
+D:\Libraries\Documents\Visual Studio 2013\Projects\Trend Analyser\Trend Analyser\obj\Debug\Trend_Analyser.Data_Request.resources
+D:\Libraries\Documents\Visual Studio 2013\Projects\Trend Analyser\Trend Analyser\obj\Debug\Trend Analyser.csprojResolveAssemblyReference.cache
+D:\Libraries\Documents\Visual Studio 2013\Projects\Trend Analyser\Trend Analyser\obj\Debug\Trend_Analyser.List_Storage.resources
+D:\Libraries\Documents\Visual Studio 2013\Projects\Trend Analyser\Trend Analyser\obj\Debug\Trend_Analyser.Analyser.resources
+D:\Libraries\Documents\Visual Studio 2013\Projects\Trend Analyser\Trend Analyser\obj\Debug\Trend_Analyser.ProgressBar.resources
+D:\Libraries\Documents\Visual Studio 2013\Projects\Trend Analyser\Trend Analyser\obj\Debug\Trend_Analyser.Support_Resistance_Result.resources
+D:\Libraries\Documents\Visual Studio 2013\Projects\Trend Analyser\Trend Analyser\obj\Debug\Trend_Analyser.Stock_Trend_Analyser.resources
+D:\Libraries\Documents\Visual Studio 2013\Projects\Trend Analyser\Trend Analyser\obj\Debug\Trend_Analyser.Splash_Screen.resources
+D:\Projects\Trend Analyser_CHECKPOINT_22\Trend Analyser\bin\Debug\Trend Analyser.exe.config
+D:\Projects\Trend Analyser_CHECKPOINT_22\Trend Analyser\bin\Debug\Trend Analyser.exe
+D:\Projects\Trend Analyser_CHECKPOINT_22\Trend Analyser\bin\Debug\Trend Analyser.pdb
+D:\Projects\Trend Analyser_CHECKPOINT_22\Trend Analyser\obj\Debug\Trend Analyser.csprojResolveAssemblyReference.cache
+D:\Projects\Trend Analyser_CHECKPOINT_22\Trend Analyser\obj\Debug\Trend_Analyser.Analyser.resources
+D:\Projects\Trend Analyser_CHECKPOINT_22\Trend Analyser\obj\Debug\Trend_Analyser.Data_Request.resources
+D:\Projects\Trend Analyser_CHECKPOINT_22\Trend Analyser\obj\Debug\Trend_Analyser.Form1.resources
+D:\Projects\Trend Analyser_CHECKPOINT_22\Trend Analyser\obj\Debug\Trend_Analyser.List_Storage.resources
+D:\Projects\Trend Analyser_CHECKPOINT_22\Trend Analyser\obj\Debug\Trend_Analyser.ProgressBar.resources
+D:\Projects\Trend Analyser_CHECKPOINT_22\Trend Analyser\obj\Debug\Trend_Analyser.Properties.Resources.resources
+D:\Projects\Trend Analyser_CHECKPOINT_22\Trend Analyser\obj\Debug\Trend_Analyser.Splash_Screen.resources
+D:\Projects\Trend Analyser_CHECKPOINT_22\Trend Analyser\obj\Debug\Trend_Analyser.Stock_Trend_Analyser.resources
+D:\Projects\Trend Analyser_CHECKPOINT_22\Trend Analyser\obj\Debug\Trend_Analyser.Support_Resistance_Result.resources
+D:\Projects\Trend Analyser_CHECKPOINT_22\Trend Analyser\obj\Debug\Trend Analyser.csproj.GenerateResource.Cache
+D:\Projects\Trend Analyser_CHECKPOINT_22\Trend Analyser\obj\Debug\Trend Analyser.csproj.CoreCompileInputs.cache
+D:\Projects\Trend Analyser_CHECKPOINT_22\Trend Analyser\obj\Debug\Trend Analyser.exe
+D:\Projects\Trend Analyser_CHECKPOINT_22\Trend Analyser\obj\Debug\Trend Analyser.pdb
+D:\Projects\Trend Analyser_CHECKPOINT_22\bin\Debug\Trend Analyser.exe.config
+D:\Projects\Trend Analyser_CHECKPOINT_22\bin\Debug\Trend Analyser.exe
+D:\Projects\Trend Analyser_CHECKPOINT_22\bin\Debug\Trend Analyser.pdb
+D:\Projects\Trend Analyser_CHECKPOINT_22\bin\Debug\PythonPath.txt

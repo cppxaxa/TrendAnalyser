@@ -1,0 +1,1 @@
+python Trend_Analyser_Module_3_Analyser_Highlighter.py "D:\Libraries\Documents\Visual Studio 2013\Projects\Trend Analyser\Storage" SBIN_2017_8_24_2014_12_1
